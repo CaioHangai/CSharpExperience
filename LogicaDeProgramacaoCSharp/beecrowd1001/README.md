@@ -1,25 +1,28 @@
-beecrowd | 1000
+**beecrowd | 1001**
+Extremamente Básico
+Adaptado por Neilor Tonin, URI  Brasil
 
-# Hello World!
 
-Jean Bez, beecrowd ![img](https://resources.beecrowd.com.br/gallery/images/flags/br.gif) Brasil
+Leia 2 valores inteiros e armazene-os nas variáveis A e B. Efetue a soma de A e B atribuindo o seu resultado na variável X. Imprima X conforme exemplo apresentado abaixo. Não apresente mensagem alguma além daquilo que está sendo especificado e não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
-**Timelimit: 1**
+**Entrada**
+A entrada contém 2 valores inteiros.
 
-![img](https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1000.png)
+**Saída**
+Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 
-Welcome to **beecrowd**!
+Exemplos de Entrada	Exemplos de Saída
+10
+9
 
-Your first program in any programming language is usually "**Hello World!**". In this first problem all you have to do is print this message on the screen.
+X = 19
 
-## Input
+-10
+4
 
-This problem has no input.
+X = -6
 
-## Output
+15
+-7
 
-You must print the message **Hello World!** and then the endline as shown below.
-
-| Input Sample | Output Sample |
-| ------------ | ------------- |
-|              | Hello World!  |
+X = 8
