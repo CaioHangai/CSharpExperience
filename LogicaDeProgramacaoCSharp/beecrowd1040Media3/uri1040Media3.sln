@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uri1040Media3", "uri1040Media3\uri1040Media3.csproj", "{F5B13C1E-B248-49AE-96F1-45D4EDEBB89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B13C1E-B248-49AE-96F1-45D4EDEBB89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B13C1E-B248-49AE-96F1-45D4EDEBB89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B13C1E-B248-49AE-96F1-45D4EDEBB89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B13C1E-B248-49AE-96F1-45D4EDEBB89D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA177D1-16E4-403B-BB6C-0AA2679EC606}
+	EndGlobalSection
+EndGlobal

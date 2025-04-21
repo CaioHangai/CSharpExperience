@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio1018Cedulas", "exercicio1018Cedulas\exercicio1018Cedulas.csproj", "{13D06496-64BA-4C2B-BAE8-301BFE6596EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D06496-64BA-4C2B-BAE8-301BFE6596EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D06496-64BA-4C2B-BAE8-301BFE6596EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D06496-64BA-4C2B-BAE8-301BFE6596EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D06496-64BA-4C2B-BAE8-301BFE6596EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FE7889-CC7D-4D07-89F9-14AEFA25C0F5}
+	EndGlobalSection
+EndGlobal

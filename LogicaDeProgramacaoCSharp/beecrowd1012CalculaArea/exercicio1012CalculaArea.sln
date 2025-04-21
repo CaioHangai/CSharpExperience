@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio1012CalculaArea", "exercicio1012CalculaArea\exercicio1012CalculaArea.csproj", "{73E8629F-4762-41E1-B6A1-DD2BE9F52125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E8629F-4762-41E1-B6A1-DD2BE9F52125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E8629F-4762-41E1-B6A1-DD2BE9F52125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E8629F-4762-41E1-B6A1-DD2BE9F52125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E8629F-4762-41E1-B6A1-DD2BE9F52125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CC42D34-AEC8-4959-A2BB-BEC3304A53DA}
+	EndGlobalSection
+EndGlobal
