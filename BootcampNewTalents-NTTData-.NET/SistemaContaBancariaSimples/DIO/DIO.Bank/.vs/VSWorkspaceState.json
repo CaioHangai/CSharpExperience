@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Classes",
+    "\\Enum",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net5.0",
+    "\\obj\\Debug\\net5.0\\ref",
+    "\\obj\\Debug\\net5.0\\refint"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

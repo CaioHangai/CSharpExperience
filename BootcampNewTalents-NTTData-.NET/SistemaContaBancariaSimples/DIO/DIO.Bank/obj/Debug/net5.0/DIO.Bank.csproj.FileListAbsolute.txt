@@ -1,0 +1,32 @@
+C:\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+D:\BACKUP2021\BACKUP\CURSOS\Cursos DIO\BootCampEVERIS\ProjetoPortifolio\DIO\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache

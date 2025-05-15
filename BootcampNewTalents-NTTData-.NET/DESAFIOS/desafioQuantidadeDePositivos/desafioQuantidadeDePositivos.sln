@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafioQuantidadeDePositivos", "desafioQuantidadeDePositivos\desafioQuantidadeDePositivos.csproj", "{818D745A-9486-49D9-B958-2B8500592B94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818D745A-9486-49D9-B958-2B8500592B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818D745A-9486-49D9-B958-2B8500592B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818D745A-9486-49D9-B958-2B8500592B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818D745A-9486-49D9-B958-2B8500592B94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3910D205-C53E-4CB2-B6EA-A13833A5402E}
+	EndGlobalSection
+EndGlobal
