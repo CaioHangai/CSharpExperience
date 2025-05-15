@@ -1,10 +1,6 @@
 #                                               :wave: BEM VINDO! :wave:
 
-
-
 ##  :blue_heart: Resumo dos meus estudos Bootcamp NTT Data / DIO. :blue_heart: 
-
-
 
 **Status do Bootcamp:** 100 % concluído.
 
@@ -12,15 +8,9 @@
 
 **Descrição:** Neste projeto, com os conhecimentos adquiridos até o presente momento, no treinamento imersivo ( Bootcamp ), promovido pela Digital Inovation One ( uma comunidade com +450 mil desenvolvedores de software que vem acelerando gratuitamente a carreira de inúmeras pessoas através de cursos, bootcamps, projetos práticos e desafios ), em parceria com a NTT DATA ( uma empresa dedicada à consultoria e outsourcing em todos os sectores, com um volume de negócios de 1,45 mil milhões de euros no último exercício, e 27.000 profissionais em toda a Europa, EUA e América Latina ), devemos criar nosso primeiro repositório no GitHub com nossas anotações pessoais dos cursos. 
 
-
-
 ## :white_check_mark: Conteúdos do Bootcamp.
 
-
-
 **Status:** 100 % concluído      **Nível: ** Intermediário      **Carga Horária :** 62 Horas      **Total de Atividades:** 26
-
-
 
 - Projeto ágeis com SCRUM. :heavy_check_mark:
 - Logica de programação essencial. :heavy_check_mark:
@@ -49,23 +39,15 @@
 - Introdução a qualidade de software :heavy_check_mark:
 - Configuração da Suíte de testes e aplicando testes integrados em .NET :heavy_check_mark:
 
-
-
 ## Autor :
 
-
-
-<img src="https://github.com/CaioHangai/BootcampNewTalents-NTTData-.NET/blob/main/DESAFIO%20GIT%20HUB/primeiroDesafioGitGitHub/imagens/autorREADME.JPG" />
+<img src="https://github.com/CaioHangai/CSharpExperience/blob/main/BootcampNewTalents-NTTData-.NET/DESAFIO%20GIT%20HUB/primeiroDesafioGitGitHub/imagens/autorREADME.JPG" />
 
 ##### Contatos:
 
 - <https://www.linkedin.com/in/caiohangai/>
 
 - <https://www.facebook.com/profile.php?id=100007206046110>
-
-
-
-
 
 ## :link:Links Uteis:
 

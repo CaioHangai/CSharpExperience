@@ -48,7 +48,7 @@
 
 
 
-<img src="https://github.com/CaioHangai/BootcampNewTalents-NTTData-.NET/blob/main/DESAFIO%20GIT%20HUB/primeiroDesafioGitGitHub/imagens/PIARES%20SCRUM.JPG" />
+<img src="https://github.com/CaioHangai/CSharpExperience/blob/main/BootcampNewTalents-NTTData-.NET/DESAFIO%20GIT%20HUB/primeiroDesafioGitGitHub/imagens/PIARES%20SCRUM.JPG" />
 
 
 
