@@ -1,7 +1,5 @@
 # DIO - Trilha .NET - API e Entity Framework
 
-
-
 ## Desafio de projeto
 
 Neste desafio usei meus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
@@ -16,7 +14,7 @@ Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir que o usuá
 
 * A sua classe principal, a classe de tarefa, deve ser a seguinte:
 
-[![Diagrama da classe Tarefa](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/Image/diagramaClasse.png)](https://github.com/digitalinnovationone/trilha-net-api-desafio/blob/main/diagrama.png)
+[Diagrama da classe Tarefa](https://github.com/CaioHangai/CSharpExperience/blob/main/2BootcampPotencial.NETDeveloper/Modulo%20API/GerenciadorTarefasWebAPI/Image/diagramaClasse.png)
 
 * Deve-se também gerar a migration para atualização no banco de dados.
 
@@ -26,7 +24,7 @@ Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir que o usuá
 
 **Swagger**
 
-[![Métodos Swagger](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/Image/swaggerExemplo.png)](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/Image/swaggerExemplo.png)
+[![Métodos Swagger](https://github.com/CaioHangai/CSharpExperience/blob/main/2BootcampPotencial.NETDeveloper/Modulo%20API/GerenciadorTarefasWebAPI/Image/swaggerExemplo.png)](https://github.com/CaioHangai/CSharpExperience/blob/main/2BootcampPotencial.NETDeveloper/Modulo%20API/GerenciadorTarefasWebAPI/Image/swaggerExemplo.png)
 
 **Endpoints**
 
@@ -54,24 +52,21 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
   "status": "Pendente"
 }
 ```
-
-
-
 ## Solução
 
 Criei uma Web API conforme solicitado no desafio obedecendo as regras descritas acima, o resultado foi um programa funcional, para ver mais do codigo utilize os links abaixo :arrow_double_down: . 
 
 **Controller** 
 
-* :link:[Controllers]( https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/GerenciadorTarefasWebAPI/Controllers/TarefaController.cs)
+* :link:[Controllers](https://github.com/CaioHangai/CSharpExperience/blob/main/2BootcampPotencial.NETDeveloper/Modulo%20API/GerenciadorTarefasWebAPI/GerenciadorTarefasWebAPI/Controllers/TarefaController.cs)
 
 **Models**
 
-* :link:[Models](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/tree/main/Modulo%20API/GerenciadorTarefasWebAPI/GerenciadorTarefasWebAPI/Models)
+* :link:[Models](https://github.com/CaioHangai/CSharpExperience/tree/main/2BootcampPotencial.NETDeveloper/Modulo%20API/GerenciadorTarefasWebAPI/GerenciadorTarefasWebAPI/Models)
 
 **Connection String**
 
-* :link:[AppSettings.Jason](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/Modulo%20API/GerenciadorTarefasWebAPI/GerenciadorTarefasWebAPI/appsettings.Development.json)
+* :link:[AppSettings.Jason](https://github.com/CaioHangai/CSharpExperience/blob/main/2BootcampPotencial.NETDeveloper/Modulo%20API/GerenciadorTarefasWebAPI/GerenciadorTarefasWebAPI/appsettings.Development.json)
 
 
 

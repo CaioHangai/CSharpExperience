@@ -12,7 +12,7 @@ Você é responsável por modelar um sistema que trabalha com celulares. Para is
 
 Você precisa criar um sistema em .NET, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. Você deve criar as suas classes de acordo com o diagrama abaixo:
 
-<img src="https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/AbstraindoCelularComPOOCSharp/Diagrama%20de%20classe/diagrama.png " /> 
+<img src="https://github.com/CaioHangai/CSharpExperience/blob/main/2BootcampPotencial.NETDeveloper/AbstraindoCelularComPOOCSharp/Diagrama%20de%20classe/diagrama.png" /> 
 
 ## Regras e validações
 
@@ -26,9 +26,9 @@ Foi criada as classes de acordo com as regras de negocio e o diagrama de classes
 
 Links para acessar a solução abaixo:
 
-- 🔗 [Program.cs](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/blob/main/AbstraindoCelularComPOOCSharp/AbsttacaoCelular/Program.cs)
+- 🔗 [Program.cs](https://github.com/CaioHangai/CSharpExperience/blob/main/2BootcampPotencial.NETDeveloper/AbstraindoCelularComPOOCSharp/AbsttacaoCelular/Program.cs)
 
-- 🔗 [Models](https://github.com/CaioHangai/BootcampPotencial.NETDeveloper/tree/main/AbstraindoCelularComPOOCSharp/AbsttacaoCelular/Models)
+- 🔗 [Models](https://github.com/CaioHangai/CSharpExperience/tree/main/2BootcampPotencial.NETDeveloper/AbstraindoCelularComPOOCSharp/AbsttacaoCelular/Models)
 
   
 
